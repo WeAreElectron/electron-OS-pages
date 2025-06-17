@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Welcome to Electron OS
 
 Electron OS is a KDE Neon–based, touch-friendly Linux distribution with a custom Metro-style UI called **Mixboard**. It’s fast, clean, and chill, designed for daily use without clutter. Freedom shouldn't sacrifice ease.
